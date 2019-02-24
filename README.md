@@ -9,7 +9,9 @@ The first 10 defines the variable x as being equal to 10 (where to start), the s
 
 How many times does the loop body run each frame, once the x and y arrays are full?
 The loop runs continuously. It runs whenever your mouse moves and it has to redraw the circles. 
+
 What are two ways of increasing the spacing between rings?
 Increasing the number that var i is equal to. Another way is to increase the "10" in the increment. 
+
 How can you make the ellipse trail longer?
 If you change "10" in the increment to a smaller number (for example, i = i + 1), then more rings will be added and you will have a longer trail following your mouse. 
